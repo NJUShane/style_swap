@@ -1,0 +1,4 @@
+训练集放在pic的两个文件夹中
+修改后运行的方法是控制台：
+python style_swap_run -a train
+python style_swap_run -a test -c xxxx.jpg -s xxxx.jpg [-o name]
